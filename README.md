@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## IT Enviromental Monitor
 
-You can use the [editor on GitHub](https://github.com/IT-Floss/item/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Objetivos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El objetivo de este proyecto es desarrollar y construir un sistema de monitoreo ambiental para entornos IT, como por ejemplo, Centros de Procesamiento de Datos.
 
-### Markdown
+Será un proyecto libre, bajo licencia libre, sobre Arduino (para gestionar la electrónica) y Raspberry Pi (para el procesamiento de datos y comunicaciones).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IT-Floss/item/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+La gestión del proyecto la llevamos adelante en el tablero Kamban que puede accederse aquí: https://github.com/IT-Floss/item/projects/1
